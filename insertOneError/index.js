@@ -19,7 +19,7 @@ function InsertData(myMongoClient){
 	
 	/**
      * error
-     * school DB te students name collection create kora ace, students a collectione data insert hochche, but students er jaigai jodi bul nam dei tahole se name ekti notun collection create hocche abong tar bitorei data insert hochche, insertOne er error a error dekacche na
+     * school DB te students name collection create kora ace, students collectione a data insert hochche, but students er jaigai jodi bul nam dei tahole se name ekti notun collection create hocche abong tar bitorei data insert hochche, insertOne er error a error dekacche na
      */
 	
     // Sothik collection name
